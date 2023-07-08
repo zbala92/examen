@@ -1,0 +1,48 @@
+[
+    {
+       "nombre":"Pedro",
+       "nota":10,
+       "ranking":1
+    },
+    {
+        "nombre":"Pablo",
+        "nota":9.5,
+        "ranking":2
+     },
+     {
+        "nombre":"Juan",
+        "nota":9,
+        "ranking":3
+     },
+     {
+        "nombre":"Brayan",
+        "nota":8.5,
+        "ranking":4
+     },
+     {
+        "nombre":"Lucas",
+        "nota":8,
+        "ranking":5
+     },
+    {
+        "nombre":"Marcos",
+        "nota":7,
+        "ranking":6
+     },
+     {
+        "nombre":"Judas",
+        "nota":6,
+        "ranking":7
+     },
+     {
+        "nombre":"Jaime",
+        "nota":5,
+        "ranking":8
+     },
+     {
+        "nombre":"Juan carlos",
+        "nota":4,
+        "ranking":9
+     }
+    
+]
